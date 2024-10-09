@@ -47,16 +47,12 @@ T20_World_Cup_Analysis/
    git clone https://github.com/your-username/T20_World_Cup_Analysis.git
    cd T20_World_Cup_Analysis
    ```
-2. **Install Dependencies**:
-   Ensure you have Python 3.x installed, then run:
-   ```bash
-   ```
-3. **Run the Jupyter Notebook**:
+2. **Run the Jupyter Notebook**:
    Open and run the notebook in the `notebooks/` folder:
    ```bash
    jupyter notebook notebooks/T20_World_Cup_EDA.ipynb
    ```
-4. **Alternatively, Run the Python Scripts**:
+3. **Alternatively, Run the Python Scripts**:
    For terminal-based execution:
    ```bash
    python src/data_cleaning.py
